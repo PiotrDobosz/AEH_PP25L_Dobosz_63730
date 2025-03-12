@@ -1,0 +1,19 @@
+Wersja IntelliJ IDEA:
+IntelliJ IDEA 2024.3.4 (Community Edition)
+Build #IC-243.25659.39, built on February 27, 2025
+Runtime version: 21.0.6+8-b631.39 amd64 (JCEF 122.1.9)
+VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
+Toolkit: sun.awt.windows.WToolkit
+Windows 11.0
+GC: G1 Young Generation, G1 Concurrent GC, G1 Old Generation
+Memory: 2048M
+Cores: 24
+Registry:
+  ide.experimental.ui=true
+  llm.show.ai.promotion.window.on.start=false
+Kotlin: 243.25659.39-IJ
+
+Wersja Java:
+java version "1.8.0_431"
+Java(TM) SE Runtime Environment (build 1.8.0_431-b10)
+Java HotSpot(TM) 64-Bit Server VM (build 25.431-b10, mixed mode)
